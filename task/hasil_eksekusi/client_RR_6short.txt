@@ -1,0 +1,18 @@
+[CLIENT] Sent REQ-001 (SHORT)
+[CLIENT] Reply REQ-001 from Worker 1: Halo Server
+[CLIENT] Sent REQ-002 (SHORT)
+[CLIENT] Reply REQ-002 from Worker 2: Halo Server
+[CLIENT] Sent REQ-003 (SHORT)
+[CLIENT] Reply REQ-003 from Worker 3: Halo Server
+[CLIENT] Sent REQ-004 (SHORT)
+[CLIENT] Reply REQ-004 from Worker 1: Halo Server
+[CLIENT] Sent REQ-005 (SHORT)
+[CLIENT] Reply REQ-005 from Worker 2: Halo Server
+[CLIENT] Sent REQ-006 (SHORT)
+[CLIENT] Reply REQ-006 from Worker 3: Halo Server
+
+[CLIENT] --- Ringkasan distribusi ---
+[CLIENT] Worker 1: 2 request
+[CLIENT] Worker 2: 2 request
+[CLIENT] Worker 3: 2 request
+[CLIENT] Total: 6 request

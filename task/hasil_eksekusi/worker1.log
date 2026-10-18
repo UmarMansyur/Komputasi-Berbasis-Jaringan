@@ -1,0 +1,176 @@
+[WORKER-1] Listening on port 5001
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-004
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-003
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-006
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-004
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-007
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-010
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-013
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-016
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-019
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-022
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received T-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received T-001
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-003
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-004
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-004
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-004
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-007
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-010
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-013
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-016
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-004
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: LONG
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-001
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker
+[WORKER-1] Received REQ-003
+[WORKER-1] Application: SHORT
+[WORKER-1] Processing request...
+[WORKER-1] Request completed
+[WORKER-1] Response sent to Broker

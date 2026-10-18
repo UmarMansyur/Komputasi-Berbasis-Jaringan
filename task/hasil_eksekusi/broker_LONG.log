@@ -1,0 +1,29 @@
+[BROKER] Listening on port 5000
+[BROKER] Strategy: ROUND_ROBIN
+[BROKER] Worker 1 -> 127.0.0.1:5001
+[BROKER] Worker 2 -> 127.0.0.1:5002
+[BROKER] Worker 3 -> 127.0.0.1:5003
+[BROKER] Request REQ-001 received
+[BROKER] Application: LONG
+[BROKER] Strategy: ROUND_ROBIN
+[BROKER] Selected Worker 1
+[BROKER] Response received from Worker 1
+[BROKER] Response sent to Client
+[BROKER] Request REQ-001 received
+[BROKER] Application: LONG
+[BROKER] Strategy: ROUND_ROBIN
+[BROKER] Selected Worker 2
+[BROKER] Response received from Worker 2
+[BROKER] Response sent to Client
+[BROKER] Request REQ-001 received
+[BROKER] Application: LONG
+[BROKER] Strategy: ROUND_ROBIN
+[BROKER] Selected Worker 3
+[BROKER] Response received from Worker 3
+[BROKER] Response sent to Client
+[BROKER] Request REQ-001 received
+[BROKER] Application: LONG
+[BROKER] Strategy: ROUND_ROBIN
+[BROKER] Selected Worker 1
+[BROKER] Response received from Worker 1
+[BROKER] Response sent to Client

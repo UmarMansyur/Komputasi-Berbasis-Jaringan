@@ -1,0 +1,76 @@
+[WORKER-2] Listening on port 5002
+[WORKER-2] Received REQ-002
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-005
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-001
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-004
+[WORKER-2] Application: LONG
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-002
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-005
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-008
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-011
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-014
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-017
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-020
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-023
+[WORKER-2] Application: SHORT
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received REQ-001
+[WORKER-2] Application: LONG
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received T-001
+[WORKER-2] Application: LONG
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker
+[WORKER-2] Received T-001
+[WORKER-2] Application: LONG
+[WORKER-2] Processing request...
+[WORKER-2] Request completed
+[WORKER-2] Response sent to Broker

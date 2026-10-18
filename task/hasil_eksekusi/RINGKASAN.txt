@@ -1,0 +1,30 @@
+RINGKASAN EKSEKUSI - Simulasi Load Balancing (2026-10-18)
+Arsitektur: 1 client, 1 broker (5000), 3 worker (5001/5002/5003) di 127.0.0.1
+Protokol: JSON + newline (\n) via TCP
+
+Skenario fresh (broker baru tiap skenario):
+- RR 6x SHORT      -> 2-2-2 urutan 1,2,3,1,2,3 (client_RR_6short.txt)
+- LR 6x SHORT      -> 2-2-2 urutan 1,2,3,1,2,3 (client_LR_6short.txt)
+- LR 18x SHORT     -> 6-6-6 (client_LR_18short.txt)
+- RR 6x MIXED      -> 2-2-2 tiap worker 1 SHORT+1 LONG (client_RR_mixed.txt)
+- LONG prime 100k  -> 9592 (client_LONG.txt)
+- LONG prime 1M    -> 78498
+- LONG prime 2M    -> 148933
+- LONG factorial 20-> 2432902008176640000
+- Failover LR W2 mati 3x SHORT -> W1:2 W2:0(down) W3:1 (client_failover_LR_W2mati.txt)
+  log: "Worker 2 failed ([Errno 61] Connection refused), trying next..."
+
+Timing loopback (indikatif, bervariasi antar mesin):
+- SHORT ~0.7ms, prime100k ~1.3ms, prime1M ~7ms, prime2M ~12.6ms, fact20 ~0.5ms
+
+File broker_*.log = log sisi broker ([BROKER] Selected Worker N, dst.)
+File worker*.log = log sisi worker ([WORKER-N] Received/Processing/Response sent)
+
+Cara reproduksi manual (5 terminal):
+  python worker.py --id 1 --port 5001
+  python worker.py --id 2 --port 5002
+  python worker.py --id 3 --port 5003
+  python broker.py --strategy round_robin   # atau least_requests
+  python client.py --num 6 --app SHORT --payload "Halo Server"
+  python client.py --app LONG --limit 100000  # -> 9592
+  python client.py --num 6 --app MIXED

@@ -1,0 +1,31 @@
+--- prime 100k ---
+[CLIENT] Sent REQ-001 (LONG)
+[CLIENT] Reply REQ-001 from Worker 1: 9592
+
+[CLIENT] --- Ringkasan distribusi ---
+[CLIENT] Worker 1: 1 request
+[CLIENT] Total: 1 request
+
+--- prime 1M ---
+[CLIENT] Sent REQ-001 (LONG)
+[CLIENT] Reply REQ-001 from Worker 2: 78498
+
+[CLIENT] --- Ringkasan distribusi ---
+[CLIENT] Worker 2: 1 request
+[CLIENT] Total: 1 request
+
+--- prime 2M ---
+[CLIENT] Sent REQ-001 (LONG)
+[CLIENT] Reply REQ-001 from Worker 3: 148933
+
+[CLIENT] --- Ringkasan distribusi ---
+[CLIENT] Worker 3: 1 request
+[CLIENT] Total: 1 request
+
+--- factorial 20 ---
+[CLIENT] Sent REQ-001 (LONG)
+[CLIENT] Reply REQ-001 from Worker 1: 2432902008176640000
+
+[CLIENT] --- Ringkasan distribusi ---
+[CLIENT] Worker 1: 1 request
+[CLIENT] Total: 1 request
